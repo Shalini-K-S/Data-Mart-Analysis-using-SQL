@@ -11,7 +11,7 @@
 Data Mart is a large scale online and retail shopping platform started in 2020. The aim of this project is to analyze the sales performance of the data to obtain deeper understanding of the overall performance.
 
 ## Data Sources
-data_mart_schema: The schema for this analysis is "data_mart_schema" , containing details about the sales and transactions made in 2018- 2020.
+Data_mart: The main dataset used for this data analysis is "Data_mart.csv" , containing details about the sales and transactions made in 2018- 2020 through all platform.
 
 ## Tools
 Ms Sql
